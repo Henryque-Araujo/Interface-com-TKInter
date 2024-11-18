@@ -1,6 +1,9 @@
 # Persistencia-de-Objetos
 Repositório referente a uma atividade do curso de TSI, na matéria de POO em Python.
 
+<hr>
+
+<b>Atividade:</b>
 Implemente utilizando Python uma aplicação de <i>‘Consulta o nome do BANCO a partir do código informado’</i> com as funcionalidades detalhadas a seguir, utilizando a interface <b>TKInter</b> disponibilizada como modelo (link do modelo a seguir):
 
 ![](image.png)
