@@ -88,7 +88,7 @@ label_resultado_consulta.grid(row=2, column=1, pady=5)
 # Nome do Banco
 label_nome_banco = tk.Label(
     frame_middle,
-    text="",
+    text="Nome do Banco",
     bg="yellow",
     fg="black",
     font=("Arial", 12, "bold"),
