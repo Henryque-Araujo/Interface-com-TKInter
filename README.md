@@ -1,4 +1,4 @@
-# Persistencia-de-Objetos
+# Interface com TkInter! Criando uma mini consulta usando uma API
 Repositório referente a uma atividade do curso de TSI, na matéria de POO em Python.
 
 <hr>
